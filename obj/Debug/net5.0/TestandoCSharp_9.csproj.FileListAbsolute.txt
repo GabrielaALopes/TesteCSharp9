@@ -1,0 +1,16 @@
+C:\Users\Gabriela Lopes\source\repos\TestandoCSharp_9\bin\Debug\net5.0\TestandoCSharp_9.exe
+C:\Users\Gabriela Lopes\source\repos\TestandoCSharp_9\bin\Debug\net5.0\TestandoCSharp_9.deps.json
+C:\Users\Gabriela Lopes\source\repos\TestandoCSharp_9\bin\Debug\net5.0\TestandoCSharp_9.runtimeconfig.json
+C:\Users\Gabriela Lopes\source\repos\TestandoCSharp_9\bin\Debug\net5.0\TestandoCSharp_9.runtimeconfig.dev.json
+C:\Users\Gabriela Lopes\source\repos\TestandoCSharp_9\bin\Debug\net5.0\TestandoCSharp_9.dll
+C:\Users\Gabriela Lopes\source\repos\TestandoCSharp_9\bin\Debug\net5.0\ref\TestandoCSharp_9.dll
+C:\Users\Gabriela Lopes\source\repos\TestandoCSharp_9\bin\Debug\net5.0\TestandoCSharp_9.pdb
+C:\Users\Gabriela Lopes\source\repos\TestandoCSharp_9\obj\Debug\net5.0\TestandoCSharp_9.csprojAssemblyReference.cache
+C:\Users\Gabriela Lopes\source\repos\TestandoCSharp_9\obj\Debug\net5.0\TestandoCSharp_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriela Lopes\source\repos\TestandoCSharp_9\obj\Debug\net5.0\TestandoCSharp_9.AssemblyInfoInputs.cache
+C:\Users\Gabriela Lopes\source\repos\TestandoCSharp_9\obj\Debug\net5.0\TestandoCSharp_9.AssemblyInfo.cs
+C:\Users\Gabriela Lopes\source\repos\TestandoCSharp_9\obj\Debug\net5.0\TestandoCSharp_9.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela Lopes\source\repos\TestandoCSharp_9\obj\Debug\net5.0\TestandoCSharp_9.dll
+C:\Users\Gabriela Lopes\source\repos\TestandoCSharp_9\obj\Debug\net5.0\ref\TestandoCSharp_9.dll
+C:\Users\Gabriela Lopes\source\repos\TestandoCSharp_9\obj\Debug\net5.0\TestandoCSharp_9.pdb
+C:\Users\Gabriela Lopes\source\repos\TestandoCSharp_9\obj\Debug\net5.0\TestandoCSharp_9.genruntimeconfig.cache
